@@ -22,5 +22,3 @@ cisoforecommerce.archimate: 主要的 Archi 模型檔案。請使用 Archi 工�
 
 📝 模型資訊 (Model Information)
 Model Name: CISO-Viewpoint
-
-Format: ArchiMate 3.2
