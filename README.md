@@ -4,6 +4,8 @@ CISO Viewpoint for eCommerce Security (CISO 電商資安架構視圖)
 📂 專案內容 (Project Content)
 cisoforecommerce.archimate: 主要的 Archi 模型檔案。請使用 Archi 工具開啟此檔案以查看完整的架構模型。
 
+👉 **[點擊此處瀏覽線上互動式架構圖 (Online Architecture Site)]( https://jasonkao1977.github.io/https---github.com-jasonkao1977-ea-for-ciso-on-ecommerce)** 👈
+
 🏗️ 架構視圖 (Architecture Viewpoints)
 本模型包含三個核心視圖，分別針對戰略規劃、合規治理與投資落地進行描述：
 
