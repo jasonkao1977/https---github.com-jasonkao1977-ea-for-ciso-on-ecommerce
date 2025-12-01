@@ -11,7 +11,7 @@ cisoforecommerce.archimate: 主要的 Archi 模型檔案。請使用 Archi 工�
 
 [1.資安戰略與能力全景圖 (Security Strategy & Capability Landscape)](docs/01_security_strategy_and_capability_landscape.md)
 
-[2.企業風險與合規治理視圖 (Risk & Compliance Governance View)](docs/02_risk_and_compliance_governance_view.md)
+[2.企業風險與合規治理視圖 (Risk & Compliance Governance View)](docs/02_riskcompliancegovernance.md)
 
 [3. 安全投資與解決方案藍圖 (Investment & Solution Roadmap)](docs/03_investment_and_solutionroadmap.md)
 
